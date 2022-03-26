@@ -14,7 +14,7 @@ export default function Home({allPostsData}) {
 
 
             <section className={utilStyles.headingMd}>
-                <p>Hi my name is Paulius Gaida. I am software engineer. Mainly focusing on web development. Back-end
+                <p>Hi my name is Paul. I am software engineer. Mainly focusing on web development. Back-end
                     technologies node.js, PHP.
                     Front-end technologies react, angular, vue.js.
                     SASS, TypeScript
