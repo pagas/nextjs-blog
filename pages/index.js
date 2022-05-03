@@ -17,7 +17,7 @@ export default function Home({allPostsData}) {
                 <p>Hi my name is Paul. I am software engineer. Mainly focusing on web development. Back-end
                     technologies node.js, PHP.
                     Front-end technologies react, angular, vue.js.
-                    SASS, TypeScript
+                    SASS, TypeScript.
                 </p>
                 <p>
                     (This is a sample website - you’ll be building a site like this on{' '}
